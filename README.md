@@ -175,4 +175,4 @@ CREATE TABLE IF NOT EXISTS licensz (
 - **Felhasználókezelés**: Felhasználók listázása, törlése, érmék módosítása, Licensz Tiltása (Banolása).    
 
 ### 📊 **Scoreboard**  
-- **Élő eredménytábla**: Játékosok és érmék megjelenítése.  
+- **Élő eredménytábla**: Játékosok és érmék megjelenítése.  aaaaa
